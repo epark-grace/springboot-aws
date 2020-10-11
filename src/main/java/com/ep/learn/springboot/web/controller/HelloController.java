@@ -1,6 +1,6 @@
-package com.ep.learn.springboot.controller;
+package com.ep.learn.springboot.web.controller;
 
-import com.ep.learn.springboot.dto.HelloResponseDto;
+import com.ep.learn.springboot.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
