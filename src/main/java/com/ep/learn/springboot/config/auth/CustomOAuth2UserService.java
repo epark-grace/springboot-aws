@@ -1,6 +1,7 @@
 package com.ep.learn.springboot.config.auth;
 
 import com.ep.learn.springboot.config.auth.dto.OAuthAttributes;
+import com.ep.learn.springboot.config.auth.dto.SessionUser;
 import com.ep.learn.springboot.domain.user.User;
 import com.ep.learn.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
